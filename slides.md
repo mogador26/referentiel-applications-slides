@@ -57,11 +57,11 @@ class: 'custom-background-14px'
 
 <br>
 
-- Le référentiel des produits numérique représente l'ensemble des produits numériques et logiciels utilisés au sein du système d'information;
+- Le référentiel des produits numériques représente l'ensemble des produits numériques et logiciels utilisés au sein du ministère;
   
-- Il permet de centraliser, structurer, et gérer efficacement  pour un accès et une utilisation optimisés;
+- Il permet de centraliser, structurer, et gérer efficacement pour un accès et une utilisation optimisés;
 
-- Il "participe à la protection, à la défense et à la résilience du système d’information"[(*)](https://cyber.gouv.fr/publications/cartographie-du-systeme-dinformation). 
+- Il "participe à la protection, à la défense et à la résilience du système d’information"[*](https://cyber.gouv.fr/publications/cartographie-du-systeme-dinformation). 
 
 - Il est adressé à l'ensemble des acteurs du Système d'information.
 
@@ -95,9 +95,10 @@ class: 'custom-background-14px'
 - **Gestion des dépendances** : Comprendre les interconnexions et dépendances entre applications;
   
 - **Amélioration de la maintenance** : Simplifier les processus de mise à jour et d’audit;
-  
-- **Faciliter l'accès** : Avoir une vue d'ensemble claire des outils à disposition des utilisateurs.
 
+- **Faciliter l'accès** : Avoir une vue d'ensemble claire des produits à disposition des utilisateurs;
+
+- **Amélioration l'exploitabilité** : mesurer les impactes d'incidents opérationnels. 
 <br>
 
 <h3 style='text-align:center;color:green;font-size:25px;'>&#129155;</h3>
